@@ -1,0 +1,13 @@
+#card{
+
+    display: flex;
+    
+}
+.img-fluid{
+    max-width: 300px;
+    max-height: 100% ;
+}
+
+.img{
+    flex-grow: 1;
+}
